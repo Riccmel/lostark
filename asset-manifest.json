@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/lostark/static/css/main.e2b25192.css",
+    "main.js": "/lostark/static/js/main.433f1e0d.js",
+    "index.html": "/lostark/index.html",
+    "main.e2b25192.css.map": "/lostark/static/css/main.e2b25192.css.map",
+    "main.433f1e0d.js.map": "/lostark/static/js/main.433f1e0d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e2b25192.css",
+    "static/js/main.433f1e0d.js"
+  ]
+}
